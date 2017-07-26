@@ -1,0 +1,21 @@
+{
+  "name": "music-weba1",
+  "authors": [
+    "pacifi <pacifi.bnr@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "1.3.0",
+    "angular": "1.6.5"
+  }
+}
